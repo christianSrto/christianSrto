@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Christian Sorto</h1>
 <h3 align="center">A 4th year computer engineer @ TMU</h3>
 
