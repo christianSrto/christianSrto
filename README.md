@@ -1,4 +1,5 @@
 ![Header](./github-banner.png)
+- 🎓 Studying Bachelor of **Computer Engineering** at Toronto Metropolitan University.
 
 - 🌱 I’m currently learning **machine learning and cybersecurity**
 
